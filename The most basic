@@ -1,0 +1,6 @@
+Background: Permutations tests are statistical procedures used to investigate correlations with random data. It is a type of test in which the distribution of the test statistics under the null hypothesis is obtained by calculating all possible values of the test statistics under rearrangements of the labels on the observed data points. It is a rearrangement, or "shuffling", of elements of an ordered list into a one-to-one correspondence to itself.
+The most basic form of permutation test permutes the whole group. Examples that examine gene expressions, hundreds or thousands of null hypothesis can be tested at once, instead of one. This is called multiple testing, which includes new ways to control the amount of type I errors. Multiple comparison problem occurs when a set of statistical inferences are considered simultaneously. 
+Permutation tests are specifically relevant in experimental studies, where we are interested in the null hypothesis between treatment groups.  
+In the case where permutations resampling is performed, these tests can provide exact, strong control of Type I error rates, where other cases, such as bootstrap sampling, only provide approximate control. 
+Further links 
+http://thomasleeper.com/Rcourse/Tutorials/permutationtests.html
